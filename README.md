@@ -15,4 +15,6 @@ A screenshot app similar to Windows Snipping Tool. Created with PyQt4.
 ## Result:
 ![Result](https://github.com/squarematr1x/Snipping-Tool-Clone-with-PyQt/blob/master/pictures/resulting_screen.png)
 
-Mouse cursor is missing from the pictures.
+### Note:
+* Mouse cursor is missing from the pictures.
+* Works only on Windows.
